@@ -1,6 +1,6 @@
 # SoarSea-S210H-Hackintosh
 
-![release version](https://img.shields.io/github/v/release/daliansky/SoarSea-S210H-Hackintosh?style=for-the-badge)  [![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg) ![MacOS version](https://img.shields.io/badge/Sequoia-informational.svg)![MacOS version](https://img.shields.io/badge/Sonoma-informational.svg)![MacOS version](https://img.shields.io/badge/Ventura-informational.svg) [![MacOS version](https://img.shields.io/badge/Monterey-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-informational.svg)](https://www.apple.com/macos)
+![release version](https://img.shields.io/github/v/release/daliansky/SoarSea-S210H-Hackintosh?style=for-the-badge)  [![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.6-informational.svg)](https://github.com/acidanthera/OpenCorePkg) ![MacOS Tahoe](https://img.shields.io/badge/Tahoe-informational.svg) ![MacOS Sequoia](https://img.shields.io/badge/Sequoia-informational.svg)![MacOS Sonoma](https://img.shields.io/badge/Sonoma-informational.svg)![MacOS Ventura](https://img.shields.io/badge/Ventura-informational.svg) [![MacOS Monterey](https://img.shields.io/badge/Monterey-informational.svg)](https://www.apple.com/macos) [![MacOS BigSur](https://img.shields.io/badge/Bigsur-informational.svg)](https://www.apple.com/macos)
 
 [![S210H](./ScreenShots/S210H_taobao.png)](https://item.taobao.com/item.htm?id=693991506304)
 
@@ -25,9 +25,10 @@
 
 ## 更新日志
 
-- 11-5-2024
-  - 更新 `OpenCore` `v1.0.5`
+- 11-5-2025
+  - 更新 `OpenCore` `v1.0.6`
   - 支持 `Tahoe` (Intel 无线网卡) 
+    - `Tahoe` 和 `Sequoia` 下使用`itlmw` + `HeliPort`的方法驱动
   
 - 10-11-2024
   - 更新 `OpenCore` `v1.0.2` 

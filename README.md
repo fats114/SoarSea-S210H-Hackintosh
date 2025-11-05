@@ -9,8 +9,8 @@
 |     规格      |                           详细信息                           |
 | :-----------: | :----------------------------------------------------------: |
 |   电脑型号    |                        SoarSea S210H                         |
-|   操作系统    | macOS `Sequoia` / `Sonoma` / `Ventura` /  `Monterey` / `Big Sur` / `Catalina` / `Mojave` |
-|    处理器     |               英特尔 酷睿 i9-10980HK / i9-10885H /i9-9980HK 8核16线程<br />i7-10870H 8核16线程<br />i7-10750H 6核12线程               |
+|   操作系统    | macOS `Tahoe` `Sequoia` / `Sonoma` / `Ventura` /  `Monterey` / `Big Sur` / `Catalina` / `Mojave` |
+|    处理器     |               英特尔 酷睿 i9-10980HK / i9-10885H /i9-9980HK 8核16线程<br />i7-10875H 8核16线程<br />i7-10750H 6核12线程               |
 |     内存      |                      64 GB DDR4 3200MHz                      |
 |    硬盘1/2    | WD SN570 1TB/HS-SSD-C2000 2TB<br />支持双NVMe或NVMe+SATA SSD或双SATA SSD<br />最高支持 4TB+4TB双NVMe固态组合 |
 |    硬盘/3     |                 可接SATA 2.5寸硬盘/SSD(7mm)                  |
@@ -25,6 +25,10 @@
 
 ## 更新日志
 
+- 11-5-2024
+  - 更新 `OpenCore` `v1.0.5`
+  - 支持 `Tahoe` (Intel 无线网卡) 
+  
 - 10-11-2024
   - 更新 `OpenCore` `v1.0.2` 
   - 更新 `IOSkywalkFamily.kext` 到 `v1.2.0`

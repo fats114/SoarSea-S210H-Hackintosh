@@ -25,6 +25,13 @@
 
 ## 更新日志
 
+- 12-1-2026
+  - 更新 `OpenCore` `v1.0.7`
+  - 更新 17项Kexts 11项UEFI工具
+  - 支持 `Tahoe` (Intel 无线网卡+博通无线网卡) 
+    - `Tahoe` 和 `Sequoia` 下使用Airportitlwm的方法驱动 支持开启原生无线控制 请第一次进入系统后安装OCLP（3.1.1以上）重启后即可使用WIFI
+  - 解决V4全新安装Sequoia以上系统报错，提供精简安装专用EFI，安装完系统后使用OCC或者OCAT替换V4.1完整版EFI即可使用
+  
 - 11-5-2025
   - 更新 `OpenCore` `v1.0.6`
   - 支持 `Tahoe` (Intel 无线网卡) 
